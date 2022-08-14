@@ -15,3 +15,4 @@ The hajj — Arabic for “pilgrimage” — is a five-day religious pilgrimage 
 -	Apply sentiment analysis algorithms
 -	Evaluate the best algorithms
 -	Make a report about the results 
+![image](https://user-images.githubusercontent.com/48737364/184533916-985aae26-e83d-4ea4-b5df-b2368f0b03c6.png)
