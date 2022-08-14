@@ -6,7 +6,7 @@ The hajj — Arabic for “pilgrimage” — is a five-day religious pilgrimage 
 
 #### Al hajj comes after Corona pandemic and all the focus was on that event from Muslims and non-Muslims interested in the crowd management and the ability to hold such  a big event in short time. A lot of people will benefit from that the ministries, crowd managers, news, pilgrims of the next season
 
-###Dataset  description
+### Data Dictionary
 
 ## Work done in the repo
 -	Collect data from twitter API
@@ -19,7 +19,12 @@ The hajj — Arabic for “pilgrimage” — is a five-day religious pilgrimage 
 ![image](https://user-images.githubusercontent.com/48737364/184533916-985aae26-e83d-4ea4-b5df-b2368f0b03c6.png)
 
 
-##Content
+### Goals
+-
+
+## Content 
+
+```bash
 ./
 │   README.md
 │   
@@ -32,6 +37,12 @@ The hajj — Arabic for “pilgrimage” — is a five-day religious pilgrimage 
 └───src/
     │   data_processing.ipynb
     	text_normalization.ipynb 
-      
-    ##Used Libraries
-      pandas numpy matplotlib seaborn sklearn janito
+```
+
+## Used Libraries
+`pandas` 
+`numpy` 
+`matplotlib`
+`seaborn`
+`sklearn`
+`janitor`
