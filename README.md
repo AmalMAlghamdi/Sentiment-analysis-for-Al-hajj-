@@ -12,7 +12,6 @@ The hajj — Arabic for “pilgrimage” — is a five-day religious pilgrimage 
 -	Collect data from twitter API
 -	Prepare the data for EDA
 -	Plot the results
--	Preprocess the data for machine learning use
 -	Apply sentiment analysis algorithms
 -	Evaluate the best algorithms
 -	Make a report about the results 
