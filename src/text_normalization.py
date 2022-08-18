@@ -1,6 +1,11 @@
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+'''
+Created by: Mohamed Salem Elhady  
+Email: mohamed.elaraby@alumni.ubc.ca
+Text Normalization: V1 
+'''
 import sys
 import re
 #sys.setdefaultencoding('utf-8')
